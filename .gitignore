@@ -1,0 +1,16 @@
+
+
+# Ignore node_modules in all subdirectories
+**/node_modules/
+
+# Ignore specific subdirectories
+/shoes-ecommerce backend/node_modules/
+/shoes-ecommerce frontend/node_modules/
+
+# Optional: Ignore additional common folders
+/build/
+# Optional: Ignore OS and IDE-specific files
+.DS_Store
+.idea/
+*.log
+.env

@@ -1,0 +1,724 @@
+{
+  "products": [
+    {
+      "name": "FIRST White Men's Running Shoes",
+      "price": 1899,
+      "discountPercentage": 38,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "Make your running sessions enjoyable and take your style up a notch by wearing these running shoes for men from CAMPUS. These men's white running shoes have a premium quality mesh upper to keep your feet relaxed for long hours, allow ventilation, and provide responsive cushioning. These white sports shoes for men have a Memory Tech Insole with Two-Layer Adaptive Cushioning. These white shoes are constructed with Arch Support and smooth material for excellent support.",
+      "stock": 30,
+      "category": "mens-running-shoes",
+      "rating": 4.33,
+      "imageSrc": "https://www.campusshoes.com/cdn/shop/files/FIRST_11G-787_WHT-SIL-B.ORG_2_900x.jpg?v=1705644649",
+      "images": [
+        "https://www.campusshoes.com/cdn/shop/files/FIRST_11G-787_WHT-SIL-B.ORG_2_900x.jpg?v=1705644649",
+        "https://www.campusshoes.com/cdn/shop/files/FIRST_11G-787_WHT-SIL-B.ORG_1_180x.jpg?v=1705644649",
+        "https://www.campusshoes.com/cdn/shop/files/FIRST_11G-787_WHT-SIL-B.ORG_3_180x.jpg?v=1705644649",
+        "https://www.campusshoes.com/cdn/shop/products/FIRST_11G-787_WHT-SIL-B.ORG_180x.jpg?v=1705644651"
+      ]
+    },
+    {
+      "name": "TERMINATOR N Blue Men's Running Shoes",
+      "price": 1799,
+      "discountPercentage": 29,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "Add the ultimate super-shoes to your collection with CAMPUS TERMINATOR Blue Men's Running Shoes. These kicks come with flexibility and responsiveness. The high-quality mesh upper that hugs the foot for a sock-like fit and a Pillow-like midsole cushioning provides long-lasting comfort. Durable Phylon Heels provide added grip so you're ready for unexpected terrain.",
+      "stock": 30,
+      "category": "mens-running-shoes",
+      "rating": 4.33,
+      "imageSrc": "https://www.campusshoes.com/cdn/shop/files/TERMINATOR_5G-846_M.BLU-LMN_2_900x.jpg?v=1696316913",
+      "images": [
+        "https://www.campusshoes.com/cdn/shop/files/TERMINATOR_5G-846_M.BLU-LMN_2_360x.jpg?v=1696316913",
+        "https://www.campusshoes.com/cdn/shop/files/TERMINATOR_5G-846_M.BLU-LMN_1_180x.jpg?v=1696316913",
+        "https://www.campusshoes.com/cdn/shop/files/TERMINATOR_5G-846_M.BLU-LMN_3_180x.jpg?v=1696316912",
+        "https://www.campusshoes.com/cdn/shop/files/TERMINATOR_5G-846_M.BLU-LMN_4_180x.jpg?v=1696316913"
+      ]
+    },
+    {
+      "name": "HURRICANE Navy Men's Running Shoes",
+      "price": 1399,
+      "discountPercentage": 34,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "Stay comfortable while playing by wearing this pair from CAMPUS. The premium quality upper adds to the overall look and provides the necessary cushioning to your feet. It will offer a good grip and negate the chances of accidental slips owing to its Slip-Resistant Sole. The technology detail at the heel is made of TPU that is Crack Resistant, with a Fully Padded Sock Lining for ultimate comfort and has an EVA Midsole with a Phylon outsole that adds durability. Grab your pair to slay all day!",
+      "stock": 30,
+      "category": "mens-running-shoes",
+      "rating": 4.33,
+      "imageSrc": "",
+      "images": [
+        "https://www.campusshoes.com/cdn/shop/files/HURRICANE_6G-842-G-NAVY-RSLATE_1_360x.jpg?v=1694849891",
+        "https://www.campusshoes.com/cdn/shop/files/HURRICANE_6G-842-G-NAVY-RSLATE_2_180x.jpg?v=1694849891",
+        "https://www.campusshoes.com/cdn/shop/files/HURRICANE_6G-842-G-NAVY-RSLATE_3_180x.jpg?v=1694849888",
+        "https://www.campusshoes.com/cdn/shop/files/HURRICANE_6G-842-G-NAVY-RSLATE_4_180x.jpg?v=1694849888"
+      ]
+    },
+    {
+      "name": "STREET-RUN Grey Men's Running Shoes",
+      "price": 1899,
+      "discountPercentage": 43,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "Escalate your runs and jogs with this up to scratch pair of running shoes from Campus. These shoes come with Active Cell technology which makes it feather-light and a rubberized midsole material which is soft and comfortable with a grippy outsole which is abrasion resistant, paired with a breathable and comfortable superior quality mesh upper. Wear these to the gym or during your runs and be the most stylish athlete, wherever you are.",
+      "stock": 30,
+      "category": "mens-running-shoes",
+      "rating": 4.33,
+      "imageSrc": "https://www.campusshoes.com/cdn/shop/products/STREET-RUN_11G-772_L.GRY_2_900x.jpg?v=1670326499",
+      "images": [
+        "https://www.campusshoes.com/cdn/shop/products/STREET-RUN_11G-772_L.GRY_2_360x.jpg?v=1670326499",
+        "https://www.campusshoes.com/cdn/shop/products/STREET-RUN_11G-772_L.GRY_1_180x.jpg?v=1670326514",
+        "https://www.campusshoes.com/cdn/shop/products/STREET-RUN_11G-772_L.GRY_3_180x.jpg?v=1670326504",
+        "https://www.campusshoes.com/cdn/shop/products/STREET-RUN_11G-772_L.GRY_4_180x.jpg?v=1670326499"
+      ]
+    },
+    {
+      "name": "TRILLIUM Men's Running Shoes",
+      "price": 1499,
+      "discountPercentage": 37,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "Escalate your runs and jogs with this up to scratch pair of running shoes from Campus. These shoes come with Active Cell technology which makes it feather-light and a rubberized midsole material which is soft and comfortable with a grippy outsole which is abrasion resistant, paired with a breathable and comfortable superior quality mesh upper. Wear these to the gym or during your runs and be the most stylish athlete, wherever you are.",
+      "stock": 30,
+      "category": "mens-running-shoes",
+      "rating": 4.33,
+      "imageSrc": "https://www.campusshoes.com/cdn/shop/products/TRILLIUM-5G-857-OFF-WHT-BEIGE_2_900x.jpg?v=1670326652",
+      "images": [
+        "https://www.campusshoes.com/cdn/shop/products/TRILLIUM-5G-857-OFF-WHT-BEIGE_2_360x.jpg?v=1670326652",
+        "https://www.campusshoes.com/cdn/shop/products/TRILLIUM-5G-857-OFF-WHT-BEIGE_1_180x.jpg?v=1670326652",
+        "https://www.campusshoes.com/cdn/shop/products/TRILLIUM-5G-857-OFF-WHT-BEIGE_3_180x.jpg?v=1670326660",
+        "https://www.campusshoes.com/cdn/shop/products/TRILLIUM-5G-857-OFF-WHT-BEIGE_4_180x.jpg?v=1670326637"
+      ]
+    },
+    {
+      "name": "KING Pro Black Men's Walking Shoes",
+      "price": 1099,
+      "discountPercentage": 17,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "Minimal in design, KING PLUS running shoe is made of lightweight, single layer mesh for breathability and soft foam beneath the foot for revolutionary comfort and responsiveness. Dynamic fit upper and full length out-sole deliver responsive cushioning and durable traction. It's molded pods offer multisurface traction. Pods flatten on impact then spring back at takeoff creating a piston effect that delivers responsive cushioning.",
+      "stock": 30,
+      "category": "mens-walking-shoes",
+      "rating": 4.33,
+      "imageSrc": "https://www.campusshoes.com/cdn/shop/products/KINGPRO_6G-156A_FULLBLK_2_900x.jpg?v=1705644967",
+      "images": [
+        "https://www.campusshoes.com/cdn/shop/products/KINGPRO_6G-156A_FULLBLK_2_360x.jpg?v=1705644967",
+        "https://www.campusshoes.com/cdn/shop/products/KINGPRO_6G-156A_FULLBLK_1_180x.jpg?v=1705644967",
+        "https://www.campusshoes.com/cdn/shop/products/KINGPRO_6G-156A_FULLBLK_3_180x.jpg?v=1705644967",
+        "https://www.campusshoes.com/cdn/shop/files/KING-PRO-6G-156A-FULL-BLK_2_180x.jpg?v=1705644967"
+      ]
+    },
+    {
+      "name": "BOOMER N Off White Men's Walking Shoes",
+      "price": 830,
+      "discountPercentage": 26,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "Highlight your style quotient with this pair of Running shoes for women from Campus. Made of a superior quality knitted mesh upper, these cool lace-up shoes feature a lace closure, and a perfect shaped tip and phylon sole for flexibility. The foam insole provides comfortable movement to your feet and the non-abrasive feature ensures optimum surface traction.",
+      "stock": 30,
+      "category": "mens-walking-shoes",
+      "rating": 4.33,
+      "imageSrc": "https://www.campusshoes.com/cdn/shop/products/BOOMER-CG-586-OFF-WHT-BLK_1_b8905e69-4c9a-4d6b-b7d7-801a54a29a77_900x.jpg?v=1670325767",
+      "images": [
+        "https://www.campusshoes.com/cdn/shop/products/BOOMER-CG-586-OFF-WHT-BLK_1_b8905e69-4c9a-4d6b-b7d7-801a54a29a77_180x.jpg?v=1670325767",
+        "https://www.campusshoes.com/cdn/shop/products/BOOMER-CG-586-OFF-WHT-BLK_3_9ff73b73-c359-4a59-989e-8c5acb1d0929_180x.jpg?v=1670325768",
+        "https://www.campusshoes.com/cdn/shop/products/BOOMER-CG-586-OFF-WHT-BLK_4_be6fa907-be79-45ae-8255-8f0d0f0227f4_180x.jpg?v=1670325772",
+        ""
+      ]
+    },
+    {
+      "name": "GO WALK 6 - WARNOCK",
+      "price": 6999,
+      "discountPercentage": 33,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "Take your walking comfort to a higher level in the Skechers GO WALK 6 shoe. This slip-on walking sneaker features a Stretch Fit engineered mesh upper, lightweight ULTRA GO® cushioning midsole, Air-Cooled Goga Mat insole, and high-rebound Hyper Pillar Technology for added support.",
+      "stock": 30,
+      "category": "mens-walking-shoes",
+      "rating": 4.33,
+      "imageSrc": "https://www.skechers.in/on/demandware.static/-/Sites-skechers_india/default/dw3d929cf2/images/large/195969873854-1.jpg",
+      "images": [
+        "https://www.skechers.in/on/demandware.static/-/Sites-skechers_india/default/dw4dd355f7/images/small/195969873854-7.jpg",
+        "https://www.skechers.in/on/demandware.static/-/Sites-skechers_india/default/dw10e42986/images/small/195969873854-8.jpg",
+        "https://www.skechers.in/on/demandware.static/-/Sites-skechers_india/default/dw2f22f399/images/small/195969873854-11.jpg",
+        ""
+      ]
+    },
+    {
+      "name": "GO WALK 5 - QUADPLEX",
+      "price": 5499,
+      "discountPercentage": 55,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "Double Gore Engineered Mesh Slip On",
+      "stock": 30,
+      "category": "mens-walking-shoes",
+      "rating": 4.33,
+      "imageSrc": "https://www.skechers.in/on/demandware.static/-/Sites-skechers_india/default/dwe467fe10/images/large/194880840334-1.jpg",
+      "images": [
+        "https://www.skechers.in/on/demandware.static/-/Sites-skechers_india/default/dwe467fe10/images/small/194880840334-1.jpg",
+        "https://www.skechers.in/on/demandware.static/-/Sites-skechers_india/default/dw1beeb1c5/images/small/194880840334-9.jpg",
+        "https://www.skechers.in/on/demandware.static/-/Sites-skechers_india/default/dw688d4d71/images/small/194880840334-10.jpg",
+        ""
+      ]
+    },
+    {
+      "name": "ALLEN Green Men's Walking Shoes",
+      "price": 1499,
+      "discountPercentage": 37,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "Sport an effortlessly stylish look by wearing this casual shoes from Campus. Designed to provide support and stability, the sole offers a firm grip. The Mesh upper promises maximum relaxation and insole adds adaptive cushioning to your foot muscles and are constructed with arch support and smooth material for cool simplicity, the round shaped tip further accentuates its features. Suitable for all casual occasions, it can be worn with a pair of acid washed denims and a stylish T-shirt",
+      "stock": 30,
+      "category": "mens-walking-shoes",
+      "rating": 4.33,
+      "imageSrc": "https://www.campusshoes.com/cdn/shop/products/ALLEN_5G-851_OLIVE-BLK_3_900x.jpg?v=1670326057",
+      "images": [
+        "https://www.campusshoes.com/cdn/shop/products/ALLEN_5G-851_OLIVE-BLK_3_360x.jpg?v=1670326057",
+        "https://www.campusshoes.com/cdn/shop/products/ALLEN_5G-851_OLIVE-BLK_2_180x.jpg?v=1670326051",
+        "https://www.campusshoes.com/cdn/shop/products/ALLEN_5G-851_OLIVE-BLK_4_180x.jpg?v=1670326046",
+        "https://www.campusshoes.com/cdn/shop/products/ALLEN_5G-851_OLIVE-BLK_5_180x.jpg?v=1670326051"
+      ]
+    },
+    {
+      "name": "CAMP DENVER White Men's Sneakers",
+      "price": 1999,
+      "discountPercentage": 29,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "The new era of the bygone years is back on the streets, or it never left. Versatile, flexible and timeless, presenting CAMPUS OGs - Classic Shoes For The Classy You. These shoes has Dual-Capsule Tech which provides ultra-comfort and durability. The superior quality PU upper provides optimum fit while the rubber sole ensures a good grip and is resistant to abrasion.",
+      "stock": 30,
+      "category": "mens-sneakers",
+      "rating": 4.33,
+      "imageSrc": "https://www.campusshoes.com/cdn/shop/products/CAMPDENVER_WHT-L.SKY_3_900x.jpg?v=1705301057",
+      "images": [
+        "https://www.campusshoes.com/cdn/shop/products/CAMPDENVER_WHT-L.SKY_3_180x.jpg?v=1705301057",
+        "https://www.campusshoes.com/cdn/shop/products/CAMPDENVER_WHT-L.SKY_4_180x.jpg?v=1705301057",
+        "https://www.campusshoes.com/cdn/shop/products/CAMPDENVER_WHTLSKY_180x.jpg?v=1705301057",
+        ""
+      ]
+    },
+    {
+      "name": "OG-D4 White Men's Sneakers",
+      "price": 1399,
+      "discountPercentage": 33,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "Prepare to channel the vibes of fashion's golden era with OG-D4 from Campus! These cool shoes are the epitome of timeless elegance. Cool white sneakers are made even more impressive with green accents and exude retro charm. With their clean and versatile design, these shoes are the perfect addition to any outfit, whether it's a casual day or a special occasion.",
+      "stock": 30,
+      "category": "mens-sneakers",
+      "rating": 4.33,
+      "imageSrc": "https://www.campusshoes.com/cdn/shop/files/OG-D4_WHT-GRN_2_900x.jpg?v=1705471512",
+      "images": [
+        "https://www.campusshoes.com/cdn/shop/files/OG-D4_WHT-GRN_2_360x.jpg?v=1705471512",
+        "https://www.campusshoes.com/cdn/shop/files/OG-D4_WHT-GRN_3_180x.jpg?v=1705471512",
+        "https://www.campusshoes.com/cdn/shop/files/OG-D4_WHT-GRN_4_180x.jpg?v=1705471512",
+        "https://www.campusshoes.com/cdn/shop/files/OG-D4_WHT-GRN_180x.jpg?v=1705471512"
+      ]
+    },
+    {
+      "name": "OG-01 White Men's Sneakers",
+      "price": 1899,
+      "discountPercentage": 32,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "The new era of the bygone years is back on the streets, or it never left. Versatile, flexible, and timeless, presenting CAMPUS OGs - Classic Shoes For The Classy You. These shoes have Dual-Capsule Tech which provides ultra-comfort and durability. The superior quality PU upper provides optimum fit while the rubber sole ensures a good grip and is resistant to abrasion.",
+      "stock": 30,
+      "category": "mens-sneakers",
+      "rating": 4.33,
+      "imageSrc": "https://www.campusshoes.com/cdn/shop/products/OG-01_OG-01_WHT-BLU_2_900x.jpg?v=1705481584",
+      "images": [
+        "https://www.campusshoes.com/cdn/shop/products/OG-01_OG-01_WHT-BLU_2_360x.jpg?v=1705481584",
+        "https://www.campusshoes.com/cdn/shop/products/OG-01_OG-01_WHT-BLU_3_180x.jpg?v=1705481584",
+        "https://www.campusshoes.com/cdn/shop/products/OG-01_OG-01_WHT-BLU_4_180x.jpg?v=1705481584",
+        "https://www.campusshoes.com/cdn/shop/products/OG-01_WHT-BLU_1080x1440_e26017bf-512e-4e00-b608-87a0175a31ff_180x.jpg?v=1705481584"
+      ]
+    },
+    {
+      "name": "RENEGADE Black Men's Sneakers",
+      "price": 2199,
+      "discountPercentage": 28,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "Meet the ultimate street star. Campus Renegade is a confluence of colours, curated for the true hustler! The upper-body refreshes a classic silhouette and jazzes it up with an assortment of heat-applied tape trims with striking colours. It signifies a seamless interplay of the real and the meta-physical, the living and the divine! The colour palette of Campus Renegade signifies everything futuristic, innovative, daring and tech-savvy. Renegade also draws influence from the brand's dedication to evolve performance through its Air Capsule technology. What's special about this shoe are the shock absorbing components within its sole. The Renegade's top-of-line suspension system absorbs shock and disperses external pressure, thereby providing cushioned support for the feet upon landing, and reducing stress on one's ankles and knees. Colour schema of Renegade is highlighted in a way that will lend a graphic effect to your workout essentials or denim and tees combos.",
+      "stock": 30,
+      "category": "mens-sneakers",
+      "rating": 4.33,
+      "imageSrc": "https://www.campusshoes.com/cdn/shop/products/5G-820-G-BLK-TBLU-1_900x.jpg?v=1670326458",
+      "images": [
+        "https://www.campusshoes.com/cdn/shop/products/5G-820-G-BLK-TBLU-1_180x.jpg?v=1670326458",
+        "https://www.campusshoes.com/cdn/shop/products/5G-820-G-BLK-TBLU-5_180x.jpg?v=1670326469",
+        "https://www.campusshoes.com/cdn/shop/products/5G-820-G-BLK-TBLU-3_180x.jpg?v=1705495958",
+        ""
+      ]
+    },
+    {
+      "name": "RHODIUM Grey Men's Running Shoes",
+      "price": 1399,
+      "discountPercentage": 51,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "Enjoy a comfortable running session by wearing this pair of running shoes from Campus. Owing to the premium quality mesh upper, it will offer the necessary breathability and a sole which brings support to your feet. It will offer the necessary shock resistance and will also negate the chances of accidental slips due to its durable and anti-abrasion sole. With a round-shaped tip, it can be worn with a T-Shirt along with a pair of track pants.",
+      "stock": 30,
+      "category": "mens-sneakers",
+      "rating": 4.33,
+      "imageSrc": "https://www.campusshoes.com/cdn/shop/products/5G-855-G-GRY-BLU-2_900x.jpg?v=1670326298",
+      "images": [
+        "https://www.campusshoes.com/cdn/shop/products/5G-855-G-GRY-BLU-2_180x.jpg?v=1670326298",
+        "https://www.campusshoes.com/cdn/shop/products/5G-855-G-GRY-BLU-3_180x.jpg?v=1670326295",
+        "https://www.campusshoes.com/cdn/shop/products/5G-855-G-GRY-BLU-4_180x.jpg?v=1705493890",
+        ""
+      ]
+    },
+    {
+      "name": "HELLEN Off White Women's Running Shoes",
+      "price": 1499,
+      "discountPercentage": 37,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "Highlight your style quotient with this pair of walking shoes for women from Campus. Made of superior quality Mesh upper, these cool Lace-Up shoes feature a comfortable design providing breathability, and a perfect shaped tip and phylon sole for flexibility. The foam insole provides comfortable movement to your feet and the non-abrasive feature ensures optimum surface traction.",
+      "stock": 30,
+      "category": "womens-running-shoes",
+      "rating": 4.33,
+      "imageSrc": "https://www.campusshoes.com/cdn/shop/products/HELLEN-OFF-WHT-MSTD_2_900x.jpg?v=1670326466",
+      "images": [
+        "https://www.campusshoes.com/cdn/shop/products/HELLEN-OFF-WHT-MSTD_2_360x.jpg?v=1670326466",
+        "https://www.campusshoes.com/cdn/shop/products/HELLEN-OFF-WHT-MSTD_1_180x.jpg?v=1670326484",
+        "https://www.campusshoes.com/cdn/shop/products/HELLEN-OFF-WHT-MSTD_3_180x.jpg?v=1670326484",
+        "https://www.campusshoes.com/cdn/shop/products/HELLEN-OFF-WHT-MSTD_4_180x.jpg?v=1705647384"
+      ]
+    },
+    {
+      "name": "CAMP-TRAPPY Pink Women's Running Shoes",
+      "price": 1119,
+      "discountPercentage": 26,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "With this collection of ultra-contemporary shoes Campus brings you the best of global designs and technology right here to the streets of India while keeping it both accessible and affordable.Tormentor is designed with a classic silhouette and with a confluence of striking color stories. The USP of the shoe is itŸ??s 5 flexing zones. The flexing zones are designed as per the footŸ??s natural anatomy. The zones provide the shoe with exceptional shock absorption hence providing maximum energy making, making it a perfect shoe for running. The breathable mesh upper with a super soft lining and collar foam will help you not lose the shoeŸ??s natural shape with time.With Tormentor you can look good while you train hard.",
+      "stock": 30,
+      "category": "womens-running-shoes",
+      "rating": 4.33,
+      "imageSrc": "https://www.campusshoes.com/cdn/shop/products/CAMP-TRAPPY_22L-869_L.PEACH-L.PINK_1_900x.jpg?v=1705670357",
+      "images": [
+        "https://www.campusshoes.com/cdn/shop/products/CAMP-TRAPPY_22L-869_L.PEACH-L.PINK_1_180x.jpg?v=1705670357",
+        "https://www.campusshoes.com/cdn/shop/products/CAMP-TRAPPY_22L-869_L.PEACH-L.PINK_3_180x.jpg?v=1705670357",
+        "https://www.campusshoes.com/cdn/shop/products/CAMP-TRAPPY_22L-869_L.PEACH-L.PINK_4_180x.jpg?v=1705670357",
+        "https://www.campusshoes.com/cdn/shop/products/CAMP-TRAPPY_22L-869_L.PEACH-L.PINK_180x.jpg?v=1705670357"
+      ]
+    },
+    {
+      "name": "NOOR PLUS V Grey Women's Running Shoes",
+      "price": 949,
+      "discountPercentage": 17,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "Campus brings you Comfort and support with this pair of walking shoes for daily fitness walks. These are built with Springy Fit technology that moves air from the heel to the forefoot and back as you move keeping your journey light and comfortable. The breathable mesh upper is made of premium quality which delivers ventilation, and the adjustable lacing system provides a secure fit and its Phylon sole has an anti-skid feature and is abrasion resistant which adds durability.",
+      "stock": 30,
+      "category": "womens-running-shoes",
+      "rating": 4.33,
+      "imageSrc": "https://www.campusshoes.com/cdn/shop/files/NOORPLUSV-GRY-PINK_2_900x.jpg?v=1687972392",
+      "images": [
+        "https://www.campusshoes.com/cdn/shop/files/NOORPLUSV-GRY-PINK_2_360x.jpg?v=1687972392",
+        "https://www.campusshoes.com/cdn/shop/files/NOORPLUSV-GRY-PINK_3_180x.jpg?v=1687972392",
+        "https://www.campusshoes.com/cdn/shop/files/NOORPLUSV-GRY-PINK_4_180x.jpg?v=1705647910",
+        ""
+      ]
+    },
+    {
+      "name": "BUBBLES Purple Women's Running Shoes",
+      "price": 1399,
+      "discountPercentage": 21,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "Campus's Bubbles offers more perforations and mesh in the upper for targeted breathability across high heat areas. Your running shoe just became slimmer and cooler. Lightweight foam comfort, slimmer heel collar and tongue reduces bulk without compromising comfort, while knitted upper construction gives you a snug fit at higher speeds. Legend absorbs ground impact and with it's yoga max insole provides a smooth, responsive ride.",
+      "stock": 30,
+      "category": "womens-running-shoes",
+      "rating": 4.33,
+      "imageSrc": "https://www.campusshoes.com/cdn/shop/files/BUBBLES_22L-838_MAUVE_2_900x.jpg?v=1705664190",
+      "images": [
+        "https://www.campusshoes.com/cdn/shop/files/BUBBLES_22L-838_MAUVE_2_360x.jpg?v=1705664190",
+        "https://www.campusshoes.com/cdn/shop/files/BUBBLES_22L-838_MAUVE_1_180x.jpg?v=1705664190",
+        "https://www.campusshoes.com/cdn/shop/files/BUBBLES_22L-838_MAUVE_3_180x.jpg?v=1705664190",
+        "https://www.campusshoes.com/cdn/shop/files/BUBBLES_22L-838_MAUVE_4_180x.jpg?v=1705664190"
+      ]
+    },
+    {
+      "name": "BUBBLES Blue Women's Running Shoes",
+      "price": 1399,
+      "discountPercentage": 21,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "This YOGAFLEX feature realized in a smooth mesh upper enriched by arch support adds to long-lasting cushioning, pain relief and material which is smell free and anti-fungal which makes it an ideal proposition for active people. Featuring Anti-allergy and zero moisture feature, this adds just the right amount of spunk to your ensemble.",
+      "stock": 30,
+      "category": "womens-running-shoes",
+      "rating": 4.33,
+      "imageSrc": "https://www.campusshoes.com/cdn/shop/products/BUBBLES_6L-838_ICE-BLU_2_900x.jpg?v=1670326482",
+      "images": [
+        "https://www.campusshoes.com/cdn/shop/products/BUBBLES_6L-838_ICE-BLU_2_360x.jpg?v=1670326482",
+        "https://www.campusshoes.com/cdn/shop/products/BUBBLES_6L-838_ICE-BLU_1_180x.jpg?v=1670326468",
+        "https://www.campusshoes.com/cdn/shop/products/BUBBLES_6L-838_ICE-BLU_3_180x.jpg?v=1670326488",
+        "https://www.campusshoes.com/cdn/shop/products/BUBBLES_6L-838_ICE-BLU_4_180x.jpg?v=1705647199"
+      ]
+    },
+    {
+      "name": "RITZEY White Women's Walking Shoes",
+      "price": 899,
+      "discountPercentage": 17,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "Indulge in the allure of RITZEY shoes for women; a pair that brings style to every look of yours! The airy embrace of mesh upper against your skin ensures a comfort level that feels like a gentle hug with every step. Feel the plush comfort as you land, making every step a breeze and every stride a stylish dance with the Pillo Foam Insole. For the woman who's always on the move, these slip-on shoes are your best companion. Gym sessions, outings, or spontaneous adventures – these white and black shoes for women effortlessly adapt to your rhythm, ensuring style and comfort never miss a beat.",
+      "stock": 30,
+      "category": "womens-walking-shoes",
+      "rating": 4.33,
+      "imageSrc": "https://www.campusshoes.com/cdn/shop/files/RITZEY_22L-928_WHT-SIL_2_900x.jpg?v=1701149983",
+      "images": [
+        "https://www.campusshoes.com/cdn/shop/files/RITZEY_22L-928_WHT-SIL_2_360x.jpg?v=1701149983",
+        "https://www.campusshoes.com/cdn/shop/files/RITZEY_22L-928_WHT-SIL_3_180x.jpg?v=1705409854",
+        "https://www.campusshoes.com/cdn/shop/files/RITZEY_22L-928_WHT-SIL_4_180x.jpg?v=1705409854",
+        ""
+      ]
+    },
+    {
+      "name": "LISA N Green Women's Walking Shoes",
+      "price": 1099,
+      "discountPercentage": 18,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "Highlight your style quotient with this pair of Running shoes for women from Campus. Made of a superior quality mesh upper, these cool lace-up shoes feature a lace closure, and a perfect shaped tip and phylon sole for flexibility. The foam insole provides comfortable movement to your feet and the non-abrasive feature ensures optimum surface traction.",
+      "stock": 30,
+      "category": "womens-walking-shoes",
+      "rating": 4.33,
+      "imageSrc": "https://www.campusshoes.com/cdn/shop/files/LISA_N__LISA_N__D.S.GRN-OFWHT_1_900x.jpg?v=1695020578",
+      "images": [
+        "https://www.campusshoes.com/cdn/shop/files/LISA_N__LISA_N__D.S.GRN-OFWHT_1_180x.jpg?v=1695020578",
+        "https://www.campusshoes.com/cdn/shop/files/LISA_N__LISA_N__D.S.GRN-OFWHT_3_180x.jpg?v=1695020578",
+        "https://www.campusshoes.com/cdn/shop/files/LISA_N__LISA_N__D.S.GRN-OFWHT_5_180x.jpg?v=1705643440",
+        "https://www.campusshoes.com/cdn/shop/files/LISA_N__LISA_N__D.S.GRN-OFWHT_4_180x.jpg?v=1705643440"
+      ]
+    },
+    {
+      "name": "JITTERS Navy Women's Walking Shoes",
+      "price": 1099,
+      "discountPercentage": 12,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "An incredible duo of trendy & chic; Jitter is a pair you must have in your wardrobe! The knitted vamp upper makes for a breathable shoe environment. The Memory Foam insole provides ample cushioning for your feet, while the pillow foam sole offers unparalleled support & durability. So even if you're running errands or relaxing with friends, Jitter slip-on shoes have got you covered.",
+      "stock": 30,
+      "category": "womens-walking-shoes",
+      "rating": 4.33,
+      "imageSrc": "https://www.campusshoes.com/cdn/shop/files/JITTERS_22L-916_NAVY-PINK_1_900x.jpg?v=1705734871",
+      "images": [
+        "https://www.campusshoes.com/cdn/shop/files/JITTERS_22L-916_NAVY-PINK_1_180x.jpg?v=1705734871",
+        "https://www.campusshoes.com/cdn/shop/files/JITTERS_22L-916_NAVY-PINK_3_180x.jpg?v=1705734871",
+        "https://www.campusshoes.com/cdn/shop/files/JITTERS_22L-916_NAVY-PINK_4_180x.jpg?v=1705734871",
+        "https://www.campusshoes.com/cdn/shop/files/JITTERS_22L-916_NAVY-PINK_180x.jpg?v=1705734871"
+      ]
+    },
+    {
+      "name": "JITTERS Purple Women's Walking Shoes",
+      "price": 782,
+      "discountPercentage": 12,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "An incredible duo of trendy & chic; Jitter is a pair you must have in your wardrobe! The knitted vamp upper makes for a breathable shoe environment. The Memory Foam insole provides ample cushioning for your feet, while the pillow foam sole offers unparalleled support & durability. So even if you're running errands or relaxing with friends, Jitter slip-on shoes have got you covered.",
+      "stock": 30,
+      "category": "womens-walking-shoes",
+      "rating": 4.33,
+      "imageSrc": "https://www.campusshoes.com/cdn/shop/files/JITTERS_22L-916_D.PRPL-S.GRN_2_900x.jpg?v=1688404401",
+      "images": [
+        "https://www.campusshoes.com/cdn/shop/files/JITTERS_22L-916_D.PRPL-S.GRN_2_360x.jpg?v=1688404401",
+        "https://www.campusshoes.com/cdn/shop/files/JITTERS_22L-916_D.PRPL-S.GRN_1_180x.jpg?v=1688215152",
+        "https://www.campusshoes.com/cdn/shop/files/JITTERS_22L-916_D.PRPL-S.GRN_4_180x.jpg?v=1705581701",
+        ""
+      ]
+    },
+    {
+      "name": "ANNIE Pink Women's Walking Shoes",
+      "price": 1399,
+      "discountPercentage": 30,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "Campus brings you Comfort and support with this pair of running shoes for daily fitness walks. These running shoes are built with Foam Lite technology that moves air from the heel to the forefoot and back as you move keeping your journey light and comfortable. The breathable upper is made of premium quality which delivers ventilation, and the adjustable lacing system provides a secure fit and its Memory Tech Insole has an anti-skid feature and is abrasion resistant which adds durability.",
+      "stock": 30,
+      "category": "womens-walking-shoes",
+      "rating": 4.33,
+      "imageSrc": "https://www.campusshoes.com/cdn/shop/products/ANNIE_22L-204_ROSE-PINK_2_685b28a4-d4a6-4499-bb08-52e38203b500_900x.jpg?v=1680928988",
+      "images": [
+        "https://www.campusshoes.com/cdn/shop/products/ANNIE_22L-204_ROSE-PINK_2_685b28a4-d4a6-4499-bb08-52e38203b500_360x.jpg?v=1680928988",
+        "https://www.campusshoes.com/cdn/shop/products/ANNIE_22L-204_ROSE-PINK_1_341caafc-7751-4cf2-8de0-4d08e7e28eea_180x.jpg?v=1680928988",
+        "https://www.campusshoes.com/cdn/shop/products/ANNIE_22L-204_ROSE-PINK_4_b9212752-634d-4e9b-bfef-667b6901539a_180x.jpg?v=1705732005",
+        ""
+      ]
+    },
+    {
+      "name": "RAISE White Women's Sneakers",
+      "price": 1423,
+      "discountPercentage": 25,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "Hop on the trend with our special RAISE White Women Running Shoes. Make these spesh white shoes for women a part of your daily runs. With a full-length air unit, memory tech insole, and adaptive cushioning technology; these shoes feel as good as they look! Don't worry about them getting dirty as the sole is made with TPR material making it grease and oil-free while giving your shoes more elasticity. Rule the running game with Campus shoes.",
+      "stock": 30,
+      "category": "women-sneakers",
+      "rating": 4.33,
+      "imageSrc": "https://www.campusshoes.com/cdn/shop/products/RAISE_22L-129_WHT_3_99970d85-21f3-4e02-a13e-a772d152458b_900x.jpg?v=1705476016",
+      "images": [
+        "https://www.campusshoes.com/cdn/shop/products/RAISE_22L-129_WHT_3_99970d85-21f3-4e02-a13e-a772d152458b_180x.jpg?v=1705476016",
+        "https://www.campusshoes.com/cdn/shop/products/RAISE_WHT_f1a5a2ec-8a23-4795-a796-0da7455dc57a_180x.jpg?v=1705476016",
+        "https://www.campusshoes.com/cdn/shop/products/RAISE_22L-129_WHT_bf77fe7b-e58d-48fa-8f05-951e37faa87b_180x.jpg?v=1705476016",
+        ""
+      ]
+    },
+    {
+      "name": "BLISS Grey Women's Sneakers",
+      "price": 1799,
+      "discountPercentage": 12,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "This Campus collection will upgrade your style definition with undated technology which makes the shoes more durable and comfortable. The foam compound injects spring and bounce to each stride. It transforms resilience power into high efficient cycle system.",
+      "stock": 30,
+      "category": "women-sneakers",
+      "rating": 4.33,
+      "imageSrc": "https://www.campusshoes.com/cdn/shop/products/BLISS-11G-796-L.GRY-PEACH_2_900x.jpg?v=1670325764",
+      "images": [
+        "https://www.campusshoes.com/cdn/shop/products/BLISS-11G-796-L.GRY-PEACH_2_360x.jpg?v=1670325764",
+        "https://www.campusshoes.com/cdn/shop/products/BLISS-11G-796-L.GRY-PEACH_1_180x.jpg?v=1670325755",
+        "https://www.campusshoes.com/cdn/shop/products/BLISS-11G-796-L.GRY-PEACH_3_180x.jpg?v=1670325764",
+        "https://www.campusshoes.com/cdn/shop/products/BLISS-11G-796-L.GRY-PEACH_4_180x.jpg?v=1705490253"
+      ]
+    },
+    {
+      "name": "BROWNIE Off White Women's Running Shoes",
+      "price": 1899,
+      "discountPercentage": 31,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "This Campus collection will upgrade your style definition with foamlite technology which makes the shoes more durable and comfortable. The foam compound injects spring and bounce to each stride. It transforms resilience power into high efficient cycle system.",
+      "stock": 30,
+      "category": "women-sneakers",
+      "rating": 4.33,
+      "imageSrc": "https://www.campusshoes.com/cdn/shop/products/BROWNIE_22L-101_OFFWHT-MSTD_2_1de51212-651b-46a0-b018-b5417bc715d9_900x.jpg?v=1670326445",
+      "images": [
+        "https://www.campusshoes.com/cdn/shop/products/BROWNIE_22L-101_OFFWHT-MSTD_2_1de51212-651b-46a0-b018-b5417bc715d9_360x.jpg?v=1670326445",
+        "https://www.campusshoes.com/cdn/shop/products/BROWNIE_22L-101_OFFWHT-MSTD_1_12da07aa-2b04-4888-9713-879e85b006e2_180x.jpg?v=1670326443",
+        "https://www.campusshoes.com/cdn/shop/products/BROWNIE_22L-101_OFFWHT-MSTD_3_a947c999-af3b-4650-81c1-16ffc04862be_180x.jpg?v=1670326449",
+        "https://www.campusshoes.com/cdn/shop/products/BROWNIE_22L-101_OFFWHT-MSTD_4_2c9319fd-e55e-4a2c-8a2f-6389d698740a_180x.jpg?v=1705495635"
+      ]
+    },
+    {
+      "name": "BLISS Black Women's Sneakers",
+      "price": 1799,
+      "discountPercentage": 17,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "Perfectly designed for your energetic lifestyle, this pair of running shoes from Campus will ensure absolute comfort and robust performance. The high-quality durable mesh upper is easy to maintain and comfortable keeping your foot fresh throughout. The Phylon sole provides resistance on most surfaces and offers the required support and stability to your feet with durability. You can wear it with a polyester T-Shirt and a pair of track pants.",
+      "stock": 30,
+      "category": "women-sneakers",
+      "rating": 4.33,
+      "imageSrc": "https://www.campusshoes.com/cdn/shop/products/BLISS-11G-769-BLK-PEACH_2_900x.jpg?v=1670326443",
+      "images": [
+        "https://www.campusshoes.com/cdn/shop/products/BLISS-11G-769-BLK-PEACH_2_360x.jpg?v=1670326443",
+        "https://www.campusshoes.com/cdn/shop/products/BLISS-11G-769-BLK-PEACH_1_180x.jpg?v=1670326442",
+        "https://www.campusshoes.com/cdn/shop/products/BLISS-11G-769-BLK-PEACH_3_180x.jpg?v=1670326446",
+        "https://www.campusshoes.com/cdn/shop/products/BLISS-11G-769-BLK-PEACH_4_180x.jpg?v=1705495619"
+      ]
+    },
+    {
+      "name": "STACY BlackWomen's Sneakers",
+      "price": 1249,
+      "discountPercentage": 26,
+      "size": [
+        { "value": 6, "inStock": true },
+        { "value": 7, "inStock": true },
+        { "value": 8, "inStock": true },
+        { "value": 9, "inStock": true },
+        { "value": 10, "inStock": true }
+      ],
+      "color": ["Beige", "Black", "Blue", "White", "Brown", "Grey"],
+      "description": "These pair come with Foam Lite Tech which provides flexibility and responsiveness. These have a Mesh upper that hugs the foot for a sock-like fit. Pillow-like midsole cushioning provides long-lasting comfort. Durable phylon sole provides added grip so you're ready for unexpected terrain.",
+      "stock": 30,
+      "category": "women-sneakers",
+      "rating": 4.33,
+      "imageSrc": "https://www.campusshoes.com/cdn/shop/products/9G-173-L-BLK-DGRY-1_900x.jpg?v=1670326354",
+      "images": [
+        "https://www.campusshoes.com/cdn/shop/products/9G-173-L-BLK-DGRY-1_180x.jpg?v=1670326354",
+        "https://www.campusshoes.com/cdn/shop/products/9G-173-L-BLK-DGRY-3_180x.jpg?v=1670326367",
+        "https://www.campusshoes.com/cdn/shop/products/9G-173-L-BLK-DGRY-4_180x.jpg?v=1705495585",
+        ""
+      ]
+    }
+  ]
+}

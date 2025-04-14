@@ -31,7 +31,7 @@ function Cart() {
     dispatch(updateCartAsync({ id: product.id, quantity: qty }));
   };
   const handleDelete = (e,product) => {
-    console.log("dewldwlm" + product.id)
+    console.log("Product id is" + product.id)
     dispatch(deleteItemFromCartAsync(product.id));
   };
   return (
